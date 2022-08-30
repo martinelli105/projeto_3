@@ -1,2 +1,4 @@
 Algumas pessoas se referem ao modelo de ramificação do git como
 seu "recurso matador"
+
+Treinando branchs, alternancia de branches
